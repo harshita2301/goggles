@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+ .navbar .navbar-brand{
+     font-family:Century Gothic;
+     font-size: 37px;
+     color:black;
+ }
+
+ .nav-link{
+     margin-right: 10px;
+     margin-left: 10px;
+     color: black;
+     font-family: Comic Sans MS;
+     text-transform: uppercase;
+ 
+ }
+.nav-link:hover{
+    background-color:rgb(44, 213, 247);
+ }
+ .navbar-toggler{
+     font-size: 23px;
+     color: black;
+     background-color: white;
+     height: auto;
+     width: auto;
+ }
+ .navbar-toggler:focus{
+     outline: none;
+     box-shadow: none;
+ }
+
+ 
+
+ .product h1{
+    color:rgb(83, 81, 81);
+    font-weight: 900;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+
+    }
+    
+    
+  
+
+  .btnc{
+    height: 40px;
+    width: 30%;
+    border:none;
+    outline: none;
+    background-color: rgb(5, 5, 5);
+    color: white;
+    font-weight: 500;
+    border-radius: 20px;
+}
+.btnc:hover{
+    background-color: rgb(54, 55, 54); 
+     
+}
+
+.btnb{
+    height: 40px;
+    width: 30%;
+    border: none;
+    outline: none;
+    background-color: rgb(76, 54, 244);
+    color: white;
+    font-weight: 700;
+    border-radius: 60px;
+    
+}
+.btnb:hover{
+    background-color:rgb(144, 133, 225);
+}
+ 
+
+
+
+
+
+.contact{
+    font-family:Century Gothic;
+    padding: 2rem 0;
+   
+    
+}
+.contact .info li p a{
+    text-decoration: none;
+    font-size: 1.2rem;
+    display: inline-block;
+    margin: 0.75rem 0;
+    color: black;
+}
+.contact .form-group{
+    margin-bottom:1.5rem;
+}
+
+ 
